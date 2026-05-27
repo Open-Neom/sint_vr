@@ -1,0 +1,21 @@
+name: sint_vr
+description: SINT extension for VR — State management, dependency injection,
+  scene navigation, and translations for VR applications built with vrlizate.
+version: 0.2.0
+homepage: https://github.com/Open-Neom/sint_vr
+repository: https://github.com/Open-Neom/sint_vr
+topics:
+  - vr
+  - state-management
+  - dependency-injection
+  - flutter
+
+environment:
+  sdk: ^3.10.8
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  sint: ^1.3.0
+  vrlizate: ^1.1.0

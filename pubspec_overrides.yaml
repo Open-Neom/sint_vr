@@ -1,0 +1,15 @@
+dependency_overrides:
+  neom_vr:
+    path: ../neom_vr
+  vrlizate:
+    path: ../vrlizate
+  sint:
+    path: ../../framework/sint
+  neom_core:
+    path: ../../main/neom_core
+  neom_commons:
+    path: ../../main/neom_commons
+  neom_frequencies:
+    path: ../../neom/neom_frequencies
+  vrlizate_physics:
+    path: ../vrlizate_physics

@@ -10,4 +10,4 @@ environment:
 
 dependencies:
   neom_vr: ^1.4.0
-  sint: ^1.7.0-dev.1
+  sint: ^2.0.0
